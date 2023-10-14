@@ -1,4 +1,4 @@
-# Installation Guide For SkylineUI on Vayu
+# Installation Guide For SkylineUI on Vayu (Poco X3 Pro)
 
 ## IF YOU ARE FROM ANOTHER ROM, CLEAN FLASH IS MANDATORY.
 
