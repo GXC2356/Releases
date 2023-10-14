@@ -2,6 +2,8 @@
 
 ## IF YOU ARE FROM ANOTHER ROM, CLEAN FLASH IS MANDATORY.
 
+Download: https://sourceforge.net/projects/skylineui/files/vayu/SkylineUI-v9.0-STABLE-13.0-20231014-0449-vayu-OFFICIAL.zip/download
+
 **--- Clean Flash ---**
 Clean Flash/Installation Using Recovery:
 1. Download the latest version of SkylineUI for vayu.
